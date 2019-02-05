@@ -1,2 +1,2 @@
 # BigNumber
-A C++ simply library for integer arithmetic.
+A C++ simply library for big integer arithmetic.
